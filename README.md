@@ -1,1 +1,1 @@
-![My language statistics](github-metrics.svg))
+![My language statistics](github-metrics.svg)
